@@ -1,5 +1,20 @@
+¿Que es Node?
+Pensemos en javascript, node se encarga de ejecutralo desde el lado del servidor y ya no unicamente en el equipo del cliente,
+en si, es un lenguaje backend, con acceso al sistema de archivos del equipo que es ejecuta en V8 de google.
+
+¿que se puede hacer?
+uso de sockets para una comunicacion real Cliente-Servidor
+Maneo de archivos FileSystem, cargas simultaneas.
+Servidores locales y remotos con informacion en tiempo real
+Conexiones a base de datos
+Creaciion de servicios REST en segundos
+
 ¿Por qué es tan popular Node?
+Entradas y salidas que no realizan bloqueos del servidor
+Es sumamente rapido y facil de configurar
+Mas de 470 mil paquetes disponibles ( el ecosistema con mas librerias en el mundo)
+Si sabes JS, ya conoces node
+
+
+
 ¿Qué es blocking y non-blocking I/O?
-Realizar nuestro primer programa de Node
-Comprender como es que Node resuelve los procesos síncronos y asíncronos
-Comprender el ciclo de vida de un proceso en Node
