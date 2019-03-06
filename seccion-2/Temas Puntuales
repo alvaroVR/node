@@ -18,3 +18,6 @@ Si sabes JS, ya conoces node
 
 
 ¿Qué es blocking y non-blocking I/O?
+
+Nodemon
+Paquete para ejecutar aplicaciones js en tiempo real para no estar incializando a cada rato con node ''
