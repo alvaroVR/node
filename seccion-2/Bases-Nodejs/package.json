@@ -1,0 +1,14 @@
+{
+  "name": "bases-nodejs",
+  "version": "2.0.0",
+  "description": "Esta es una aplicacion de comandos de línea",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
